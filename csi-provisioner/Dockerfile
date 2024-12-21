@@ -1,2 +1,2 @@
-FROM registry.k8s.io/sig-storage/csi-provisioner:v4.9.0
+FROM registry.k8s.io/sig-storage/csi-provisioner:v5.0.2
 MAINTAINER Q
