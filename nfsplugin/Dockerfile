@@ -1,2 +1,2 @@
-FROM gcr.io/k8s-staging-sig-storage/nfsplugin:canary
+FROM registry.k8s.io/sig-storage/nfsplugin:v4.9.0
 MAINTAINER Q
